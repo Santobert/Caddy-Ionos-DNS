@@ -1,6 +1,6 @@
 # Caddy-Ionos-DNS
 
-Official Caddy Container with built-in IONOS DNS plugin and CrowdSec Bouncer
+Inofficial Caddy Container with built-in IONOS DNS plugin and CrowdSec Bouncer
 
 ## Included Modules
 
